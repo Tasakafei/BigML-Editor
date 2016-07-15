@@ -8,10 +8,15 @@ In order to have a more accessible and readable documentation, we split it into 
 Every document is in the resources folder. This is a summary of what it contains :
 
 [1. How to use and install ](./resources/how_to_use.md)
+
 [2. Features ](./resources/features.md)
+
 [3. Technology survey ](./resources/technology_survey.md)
+
 [4. Planning ](./resources/planning.md)
+
 [5. Architecture](./resources/architecture/md)
+
 
 <BEGIN_TODO 
 //[6. Tutorial #1 How to use the generated editor](../blob/master/LICENSE)
