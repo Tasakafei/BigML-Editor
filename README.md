@@ -9,13 +9,13 @@ Every document is in the resources folder. This is a summary of what it contains
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1. How to use and install ](./resources/how_to_use.md)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2. Features ](./resources/features.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1. Features ](./resources/features.md)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[3. Technology survey ](./resources/technology_survey.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1. Technology survey ](./resources/technology_survey.md)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4. Planning ](./resources/planning.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1. Planning ](./resources/planning.md)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[5. Architecture](./resources/architecture/md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1. Architecture](./resources/architecture/md)
 
 
 <BEGIN_TODO 
