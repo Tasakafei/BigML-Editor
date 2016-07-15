@@ -7,15 +7,15 @@ Editor of the BigML project from SINTEF
 In order to have a more accessible and readable documentation, we split it into several parts.
 Every document is in the resources folder. This is a summary of what it contains :
 
-[1. How to use and install ](./resources/how_to_use.md)
+&nbsp;&nbsp;&nbsp;&nbsp;[1. How to use and install ](./resources/how_to_use.md)
 
-[2. Features ](./resources/features.md)
+&nbsp;&nbsp;&nbsp;&nbsp;[2. Features ](./resources/features.md)
 
-[3. Technology survey ](./resources/technology_survey.md)
+&nbsp;&nbsp;&nbsp;&nbsp;[3. Technology survey ](./resources/technology_survey.md)
 
-[4. Planning ](./resources/planning.md)
+&nbsp;&nbsp;&nbsp;&nbsp;[4. Planning ](./resources/planning.md)
 
-[5. Architecture](./resources/architecture/md)
+&nbsp;&nbsp;&nbsp;&nbsp;[5. Architecture](./resources/architecture/md)
 
 
 <BEGIN_TODO 
