@@ -1,6 +1,6 @@
 # BigML-Editor
 ## Description
-[TODO DESCRIPTION OF THE PROJECT]
+<TODO DESCRIPTION OF THE PROJECT>
 Editor of the BigML project from SINTEF
 
 ## Documentation
@@ -28,11 +28,11 @@ END_TODO>
 
 ## How to contribute
 
-[TODO ADD CONTACT]
-[TODO talk about coding conventions]
+<TODO ADD CONTACT>
+<TODO talk about coding conventions>
 
 ## License
 BigML and BigML-Editor is under the license apache2.0 see
-[TODO ADD LINK TO LICENSE] for further informations.
+[LICENSE](./LICENSE) for further informations.
 
 
